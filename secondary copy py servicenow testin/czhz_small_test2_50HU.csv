@@ -1,5 +1,0 @@
-,Name (FQDN),Model,Is virtual,Operating system,OS version,Comments,Class,CPU count,CPU core count,IP address,RAM (MB),Company identifier,Status,Serial number,Used for,location,model
-0,ABC123.raiffeisen.hu,IBM ABC123-ABC123,False,AIX,AIX 7.2 7200-05-03-2136,CI-abc,AIX Server,,,14.2.19.236,,RBHU,Installed,ABC123,Production,ABC - DC - Server Room,IBM ABC123-ABC123
-6,ABC123.raiffeisen.hu,IBM ABC123-ABC123,False,AIX,AIX 7.2 7200-05-03-2136,CI-abc,AIX Server,,,14.5.73.129,,RBHU,Installed,ABC123,Production,ABC - DC - Server Room,IBM ABC123-ABC123
-7,ABC123.raiffeisen.hu,IBM ABC123-ABC123,False,AIX,AIX 7.1 7100-05-03-1846,CI-abc,AIX Server,,,14.1.29.133,,RBHU,Installed,ABC123,Production,ABC 11-13- Server Room,IBM ABC123-ABC123
-9,ABC123.raiffeisen.hu,IBM ABC123-ABC123,False,AIX,AIX 7.2 7200-05-03-2136,CI-abc,AIX Server,,,14.4.73.63,,RBHU,Installed,ABC123,Production,ABC - DC - Server Room,IBM ABC123-ABC123
