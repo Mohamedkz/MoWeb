@@ -1,0 +1,2 @@
+Name (FQDN),Model,Is virtual,Operating system,OS version,Comments,Class,CPU count,CPU core count,IP address,RAM (MB),Company identifier,Status,Serial number,Used for,location,model
+alfweb1ap1.rb.cz,VMware Virtual Platform,true,GNU/Linux,CentOS Linux release 7.9.2009 (Core),,Linux Server,2,2,10.237.101.128,12.13,RBCZ,Installed,,Production,DC01_Hraskeho,VMware Virtual Platform

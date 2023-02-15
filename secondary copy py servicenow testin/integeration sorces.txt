@@ -1,0 +1,30 @@
+python code to read from serviceNow system via API call
+
+https://www.youtube.com/watch?v=PC-h8U3Wuso&list=PLzTvAeLiW8Ae4-8eJWNhzFyTqovD9LaaR
+
+
+
+
+Integration: Two different applications communicate with each other and share data.
+
+outbound integration: ServiceNow makes a call to 3rd party system to share data between two systems.
+
+ServiceNow Instance     <---Response----             3rd Party Application
+   (Consumer)           ----Request---->                  (Provider) 
+
+
+inbound integration: Other system will make call to ServiceNow and perform different operations to create or update records.
+
+
+ServiceNow Instance     <---Request-----             3rd Party Application
+   (Provider)           ----Response---->                  (Consumer) 
+
+ServiceNow       <---Inbound call to serviceNOW -----            JIRA
+                                                                 Github
+                 ----Retrun Data with response---->              Vendor ServiceNow
+                                                                 Microsoft Teams
+
+
+REST
+REST is REpresentational State Transfer
+Stateless architecture
